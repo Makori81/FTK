@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('images/kids_smiling.jpg'); /* Ensure this image is in the 'images' folder */
+    background-color: grey;
     background-size: cover;
 }
 
